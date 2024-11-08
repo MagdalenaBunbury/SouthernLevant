@@ -1,5 +1,9 @@
 Southern Levant 14C dataset 
 
+10.5281/zenodo.14053395
+
+v.0.1.0 
+
 This dataset consists of 4,657 radiocarbon (14C) dates from 582 archaeological sites in the Southern Levant spanning the last 50,000 years. The map shows the spatial distribution of 561 georeferenced 14C-dated sites. 
 
 [Fig. 1.pdf](https://github.com/user-attachments/files/17671749/Fig.1.pdf)
