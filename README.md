@@ -19,6 +19,9 @@ The dataset comprises five files:
 •	SouthernLevantReferences.csv: A list of references corresponding to the 14C dates and sites. 
 •	SouthernLevantRcode: R-code to reproduce SPD plots used in this manuscript.
 
+Licence
+
+The Southern Levant dataset is made available under the Creative Common License CC-BY 4.0. 
 
 
 
