@@ -1,6 +1,6 @@
 Southern Levant 14C dataset 
 
-10.5281/zenodo.14053395
+The dataset associated with this repository is available on Zenodo: [https://doi.org/10.5281/zenodo.14053395]  
 
 v.0.1.0 
 
