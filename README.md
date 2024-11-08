@@ -3,11 +3,10 @@ Southern Levant 14C dataset
 This dataset consists of 4,657 radiocarbon (14C) dates from 582 archaeological sites in the Southern Levant spanning the last 50,000 years. The map shows the spatial distribution of 561 georeferenced 14C-dated sites. 
 
 https://github.com/MagdalenaBunbury/SouthernLevant/tree/Fig.-1
-[Fig. 1.pdf](https://github.com/user-attachments/files/17671749/Fig.1.pdf)
 
 The dataset has been used to present a robust seven-step framework for curating and analysing extensive 14C datasets, optimised to construct accurate Summed Probability Distribution (SPD) models.
 
-[Fig. 2.pdf](https://github.com/user-attachments/files/17671778/Fig.2.pdf)
+Fig.2.pdf
 
 The study presents three SPDs focusing on the period between 9800 and 1150 BCE (Pre-Pottery Neolithic A-Late Bronze Age). The first SPD shows an unnormalised SPD, exponential fit, of 3538 reliable 14C dates from the Southern Levant (Global p-value: 0.001). The second compares contrasting population trends across the Mediterranean, Irano-Turanian, and Saharo-Arabian phytogeographic zones. The third uses 420 reliable 14C dates from the Negev region (Global p-value: 0.04296). 
 
