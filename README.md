@@ -6,7 +6,7 @@ https://github.com/MagdalenaBunbury/SouthernLevant/tree/Fig.-1
 
 The dataset has been used to present a robust seven-step framework for curating and analysing extensive 14C datasets, optimised to construct accurate Summed Probability Distribution (SPD) models.
 
-Fig.2.pdf
+https://github.com/MagdalenaBunbury/SouthernLevant/tree/Fig.-2
 
 The study presents three SPDs focusing on the period between 9800 and 1150 BCE (Pre-Pottery Neolithic A-Late Bronze Age). The first SPD shows an unnormalised SPD, exponential fit, of 3538 reliable 14C dates from the Southern Levant (Global p-value: 0.001). The second compares contrasting population trends across the Mediterranean, Irano-Turanian, and Saharo-Arabian phytogeographic zones. The third uses 420 reliable 14C dates from the Negev region (Global p-value: 0.04296). 
 
