@@ -43,13 +43,13 @@ Bunbury, M.M.E. 2025. Towards Robust Demographic Models: A Systematic Framework 
 
 **Major Contributing Databases & Datasets**
 
+- [CalPal](https://uni-koeln.academia.edu/BernhardWeninger/CalPal) (The Cologne Radiocarbon Calibration & Palaeoclimate Research Package) – Weninger et al. 2006.
+- [D-REAMS](https://www.weizmann.ac.il/D-REAMS/scientific-publications) (Dangoor Research Accelerator Mass Spectrometry Laboratory) – Weizmann Institute of Science.
+- [NERD](https://openarchaeologydata.metajnl.com/articles/10.5334/joad.90) (Near East Radiocarbon Dates) – Palmisano et al., 2022.
+- [ORAU](https://c14.arch.ox.ac.uk/database/db.php) (Oxford Radiocarbon Accelerator Unit online database) – University of Oxford.
 - [PPND](https://www.exoriente.org/associated_projects/ppnd.php) (Platform for Neolithic Radiocarbon Dates) – Benz, M., 2014
 - [p3k14c](https://www.nature.com/articles/s41597-022-01118-7) (A global database of archaeological <sup>14</sup>C dates) – Bird et al., 2022.
 - [RADON](https://radon.ufg.uni-kiel.de/) (Central European Database of <sup>14</sup>C dates for the Neolithic and Early Bronze Age) – Hinz et al., 2012.
-- [NERD](https://openarchaeologydata.metajnl.com/articles/10.5334/joad.90) (Near East Radiocarbon Dates) – Palmisano et al., 2022.
-- [ORAU](https://c14.arch.ox.ac.uk/database/db.php) (Oxford Radiocarbon Accelerator Unit online database) – University of Oxford.
-- [CalPal](https://uni-koeln.academia.edu/BernhardWeninger/CalPal) (The Cologne Radiocarbon Calibration & Palaeoclimate Research Package) – Weninger et al. 2006.
-- [D-REAMS](https://www.weizmann.ac.il/D-REAMS/scientific-publications) (Dangoor Research Accelerator Mass Spectrometry Laboratory) – Weizmann Institute of Science.
 - Boaretto, E., Jull, A.T., Gilboa, A. and Sharon, I., 2005. [Dating the Iron Age I/II transition in Israel: first intercomparison results](https://www.cambridge.org/core/journals/radiocarbon/article/dating-the-iron-age-iii-transition-in-israel-first-intercomparison-results/9E4A579AAABD63C763F465CE83B2EA71). _Radiocarbon_, _47_(1), pp.39-55.
 - Carmi, I., 1987. [Rehovot radiocarbon measurements III](https://www.cambridge.org/core/journals/radiocarbon/article/rehovot-radiocarbon-measurements-iii/E6DA39A5331F5F8EEE96B5773A3BA0CD). Radiocarbon, 29 (1), 100-114.
 - Flohr, P., Fleitmann, D., Matthews, R., Matthews, W., and Black, S., 2016. [Evidence of resilience to past climate change in Southwest Asia: Early farming communities and the 9.2 and 8.2 ka events.](https://doi.org/10.1016/j.quascirev.2015.06.022) Quaternary Science Reviews 136 , pp. 23-39.
