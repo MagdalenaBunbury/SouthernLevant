@@ -39,7 +39,7 @@ Neither DFG nor ARC had any role in study design, data collection, analysis, or 
 **GitHub Repository:** [Southern Levant 14C Dataset](https://github.com/MagdalenaBunbury/SouthernLevant)
 
 **Recommended Citation:**  
-Bunbury, M.M.E. 2025. Towards Robust Demographic Models: A Systematic Framework to 14C Data Aggregation and Analysis with Lessons from the Southern Levant, version 0.2 (29 January 2025). <https://github.com/MagdalenaBunbury/SouthernLevant>
+Bunbury, M.M.E. 2025. Towards Robust Demographic Models: A Systematic Framework to 14C Data Aggregation and Analysis with Lessons from the Southern Levant, version 0.2 (1 February 2025). <https://github.com/MagdalenaBunbury/SouthernLevant>
 
 **Major Contributing Databases & Datasets**
 
@@ -85,7 +85,7 @@ This dataset was generated using a **seven-step methodological framework** to en
 
 ![Seven-step methodological framework](figures/figure2.png)
 
-**Fig. 2** Seven-step methodological framework for <sup>14</sup>C dataset generation and assessment. Key abbreviations include Marine Reservoir Effect (MRE), Marine Samples (MS), Terrestrial Samples with Inbuilt Age (TIA), and Terrestrial Short-Lived materials (TSL).
+**Fig. 2** Seven-step methodological framework for <sup>14</sup>C dataset generation and assessment. Key abbreviations include Marine Reservoir Effect (MRE), Marine Samples (MS), Terrestrial Samples with Inbuilt Age (TIA), and Terrestrial Short-Lived Materials (TSL).
 
 **Software & Tools Used**
 
@@ -112,7 +112,7 @@ This dataset was generated using a **seven-step methodological framework** to en
 **People Involved**
 
 - Magdalena M.E. Bunbury – Data collection, processing, and analysis (Kiel University, James Cook University).
-- Cheryl Makarewicz – Provided guidance on data collection (Kiel University).
+- Cheryl Makarewicz – Guided data collection (Kiel University).
 
 ## **DATA-SPECIFIC INFORMATION FOR: SouthernLevant14C.csv**
 
@@ -135,7 +135,7 @@ This dataset was generated using a **seven-step methodological framework** to en
 | **Material / Species / δ13C** | Organic material dated (e.g., charcoal, bone, seeds), species, and δ13C values if available. |
 | **Context / Site_Function** | Archaeological context (e.g., stratigraphy) and site function (e.g., settlement, burial). |
 | **Period / Culture** | Chronological period and cultural association, if applicable. |
-| **Comments** | Notes on inconsistencies in databases, typological chronology, or data uncertainties. |
+| **Comments** | Notes on database inconsistencies, typological chronology, or data uncertainties. |
 | **Classes** | Type of <sup>14</sup>C sample (e.g., charcoal, bone, shell). |
 | **Reliability_Class** | Categorization of reliability (1a, 1b, 2a, etc.). |
 | **Exclusion_Reason** | Justification for marking a sample as an outlier (e.g., intrusive material). |
@@ -186,7 +186,7 @@ Occupation probabilities were calculated using the following Excel formula:
 
 \=IF(AND(N$1>=$L3, N$1<=$K3), 1/((($K3-$L3)/50)+1), 0)
 
-This ensures proportional distribution of occupation likelihood within calibrated age ranges.
+This ensures a proportional distribution of occupation likelihood within calibrated age ranges.
 
 ## **DATA-SPECIFIC INFORMATION FOR: AoristicWeightsSites.csv**
 
@@ -248,4 +248,4 @@ Probabilities were standardised using:
 
 ## **CONCLUSION & NEXT STEPS**
 
-This dataset establishes a rigorous, standardised foundation for <sup>14</sup>C-based demographic modelling, ensuring consistency and reliability in archaeological data analysis. Its adaptable framework can be applied to other large-scale datasets, enhancing cross-regional comparability. Future developments may focus on refining outlier detection methods and integrating regional climate modelling to further improve analytical precision.
+This dataset establishes a rigorous, standardised foundation for <sup>14</sup>C-based demographic modelling, ensuring consistency and reliability in archaeological data analysis. Its adaptable framework can be applied to other large-scale datasets, enhancing cross-regional comparability. Future developments may focus on refining outlier detection methods and integrating regional climate modelling to improve analytical precision.
